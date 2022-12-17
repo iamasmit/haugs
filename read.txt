@@ -1,0 +1,5 @@
+Create a database  Name = haugs
+and @import the sql file to te haugs database
+
+username = admin@gmail.com
+password =admin
